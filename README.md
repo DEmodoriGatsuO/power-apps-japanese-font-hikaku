@@ -80,3 +80,78 @@ Screen1
         ├── Toggle3
         └── Toggle4
 ```
+
+```plaintext:Formulas
+FontTable = Table(
+    {
+        Index: 1,
+        Font: Font.Arial,
+        Label: "Arial"
+    },
+    {
+        Index: 2,
+        Font: Font.'Courier New',
+        Label: "Courier New"
+    },
+    {
+        Index: 3,
+        Font: Font.'Dancing Script',
+        Label: "Dancing Script"
+    },
+    {
+        Index: 4,
+        Font: Font.Georgia,
+        Label: "Georgia"
+    },
+    {
+        Index: 5,
+        Font: Font.'Great Vibes',
+        Label: "Great Vibes"
+    },
+    {
+        Index: 6,
+        Font: Font.Lato,
+        Label: "Lato"
+    },
+    {
+        Index: 7,
+        Font: Font.'Lato Black',
+        Label: "Lato Black"
+    },
+    {
+        Index: 8,
+        Font: Font.'Lato Hairline',
+        Label: "Lato Hairline"
+    },
+    {
+        Index: 9,
+        Font: Font.'Lato Light',
+        Label: "Lato Light"
+    },
+    {
+        Index: 10,
+        Font: Font.'Open Sans',
+        Label: "Open Sans"
+    },
+    {
+        Index: 11,
+        Font: Font.'Open Sans Condensed',
+        Label: "Open Sans Condensed"
+    },
+    {
+        Index: 12,
+        Font: Font.'Patrick Hand',
+        Label: "Patrick Hand"
+    },
+    {
+        Index: 13,
+        Font: Font.'Segoe UI',
+        Label: "Segoe UI"
+    },
+    {
+        Index: 14,
+        Font: Font.Verdana,
+        Label: "Verdana"
+    }
+);
+```
