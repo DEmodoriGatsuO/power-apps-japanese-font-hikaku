@@ -59,3 +59,24 @@ Contributions are welcome! To contribute:
    git push origin feature/your-feature-name
    ```
 5. Open a pull request with a detailed description of your changes.
+
+## Controls
+```
+Screen1
+└── ScreenContainer1
+    ├── HeaderContainer1
+    │   └── Label2
+    ├── MainContainer1
+    │   └── galFont
+    │       └── Container1
+    │           ├── lblKanji
+    │           ├── lblEnglish
+    │           ├── lblFont
+    │           └── lblHiragana
+    └── FooterContainer1
+        ├── Slider1
+        ├── Toggle1
+        ├── Toggle2
+        ├── Toggle3
+        └── Toggle4
+```
